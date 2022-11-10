@@ -1,11 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "title": "play gloomhaven",
-      "isFav": true
-    },
-    {
       "id": 2,
       "title": "mow the lawn",
       "isFav": false
